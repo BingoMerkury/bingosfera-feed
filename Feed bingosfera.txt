@@ -1,0 +1,479 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>Bingosfera Feed</title>
+<link>https://bingosfera.sklep.pl</link>
+<description>Feed produktowy sklepu Bingosfera</description>
+<item>
+<g:id>111</g:id>
+<title>T-shirt Schnappiness unisex</title>
+<description>Schnapiness = Schnauzer + Happiness To nie tylko gra słów, ale też styl życia każdego opiekuna sznaucera. Czyli merdający ogon rozwiewający Twoje smutki, brodaty budzik, energiczny kompan, gotowy na wszystko! To Twój najlepszy przyjaciel, z błotem na łapach i najwierniejszym spojrzeniem świata. Sznaucery nie pytają – po prostu kochają. Z tej bezwarunkowej więzi powstała kolekcja „Schnapiness” – od psiego serca prosto do Twojej szafy. T-shirt „Schnapiness” – dla tych, którzy wiedzą, że życie ze sznaucerem to styl. Dlaczego go pokochasz od pierwszego założenia? 100% bawełna organiczna – miękka, przyjemna i dobra dla planety Gramatura 180 g/m² – lekka, oddychająca, idealna na każdą psigodę Etyczna produkcja – certyfikaty GOTS, GRS, OCS, OEKO-TEX Standard 100, Fair Wear – dla Ciebie, dla planety, Krój jak sznaucer – pasuje do wszystkiego – unisex – dobrze leży na każdej sylwetce Stylowy wzór – minimalistyczny trwały nadruk odporny na Olbrzymie psigody Pielęgnacja: Prać ręcznie lub w pralce w niskiej temperaturze. Przed wypraniem odwróć na lewą stronę. Nie susz w suszarce i nie używaj chlorowych wybielaczy. Prasuj na lewej stronie unikając kontaktu z nadrukiem. Noś go, bo wiesz, co to znaczy prawdziwe „Schnapiness”. Idealny też na prezent – dla każdego, kto kiedykolwiek powiedział: „to nie jest pies, to członek rodziny.” Idealny dla Ciebie © Bingosfera</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30041663-T-shirt-Schnappiness-unisex</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/295.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>99 PLN</g:price>
+<g:sale_price>89 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-05-16T00:00:00+02:00/2025-05-26T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30041663</g:mpn>
+<g:shipping_weight>0.2 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>113</g:id>
+<title>T-shirt Schnappiness unisex</title>
+<description>Schnapiness = Schnauzer + HappinessTo nie tylko gra słów, ale też styl życia każdego opiekuna sznaucera. Czyli merdający ogon rozwiewający Twoje smutki, brodaty budzik, energiczny kompan, gotowy na wszystko! To Twój najlepszy przyjaciel, z błotem na łapach i najwierniejszym spojrzeniem świata. Sznaucery nie pytają – po prostu kochają.Z tej bezwarunkowej więzi powstała kolekcja „Schnapiness” – od psiego serca prosto do Twojej szafy.T-shirt „Schnapiness” – dla tych, którzy wiedzą, że życie ze sznaucerem to styl. Dlaczego go pokochasz od pierwszego założenia? 100% bawełna organiczna – miękka, przyjemna i dobra dla planety Gramatura 180 g/m² – lekka, oddychająca, idealna na każdą psigodę Etyczna produkcja – certyfikaty GOTS, GRS, OCS, OEKO-TEX Standard 100, Fair Wear – dla Ciebie, dla planety, Krój jak sznaucer – pasuje do wszystkiego – unisex – dobrze leży na każdej sylwetce Stylowy wzór – minimalistyczny trwały nadruk odporny na Olbrzymie psigody Pielęgnacja: Prać ręcznie lub w pralce w niskiej temperaturze. Przed wypraniem odwróć na lewą stronę. Nie susz w suszarce i nie używaj chlorowych wybielaczy. Prasuj na lewej stronie unikając kontaktu z nadrukiem. Noś go, bo wiesz, co to znaczy prawdziwe „Schnapiness”. Idealny też na prezent – dla każdego, kto kiedykolwiek powiedział: „to nie jest pies, to członek rodziny.” Idealny dla Ciebie © Bingosfera</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30041698-T-shirt-Schnappiness-unisex</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/305.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>99 PLN</g:price>
+<g:sale_price>89 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-05-16T00:00:00+02:00/2025-05-26T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30041698</g:mpn>
+<g:shipping_weight>0.2 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>115</g:id>
+<title>Koszulka Schnappiness definicja</title>
+<description>T-shirt „Schnapiness” – dla tych, którzy wiedzą, że życie ze sznaucerem to styl. Dlaczego go pokochasz od pierwszego założenia? 100% bawełna organiczna – miękka, przyjemna i dobra dla planety Gramatura 180 g/m² – lekka, oddychająca, idealna na każdą psigodę Etyczna produkcja – certyfikaty GOTS, GRS, OCS, OEKO-TEX Standard 100, Fair Wear – dla Ciebie, dla planety,  Krój jak sznaucer – pasuje do wszystkiego – unisex – dobrze leży na każdej sylwetce Stylowy wzór – minimalistyczny trwały nadruk odporny na Olbrzymie psigody Pielęgnacja: Prać ręcznie lub w pralce w niskiej temperaturze. Przed wypraniem odwróć na lewą stronę. Nie susz w suszarce i nie używaj chlorowych wybielaczy. Prasuj na lewej stronie unikając kontaktu z nadrukiem.    Noś go, bo wiesz, co to znaczy prawdziwe „Schnapiness”. Idealny też na prezent – dla każdego, kto kiedykolwiek powiedział: „to nie jest pies, to członek rodziny.” Idealny dla Ciebie  Schnapiness = Schnauzer + HappinessTo nie tylko gra słów, ale też styl życia każdego opiekuna sznaucera.  Czyli merdający ogon rozwiewający Twoje smutki, brodaty budzik, energiczny kompan, gotowy na wszystko! To Twój najlepszy przyjaciel, z błotem na łapach i najwierniejszym spojrzeniem świata.    © Bingosfera</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30041755-Koszulka-Schnappiness-definicja</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/314.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>99 PLN</g:price>
+<g:sale_price>89 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-05-16T00:00:00+02:00/2025-05-26T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30041755</g:mpn>
+<g:shipping_weight>0.2 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>116</g:id>
+<title>Koszulka Schnappiness definicja</title>
+<description>T-shirt „Schnapiness” – dla tych, którzy wiedzą, że życie ze sznaucerem to styl.Dlaczego go pokochasz od pierwszego założenia?100% bawełna organiczna – miękka, przyjemna i dobra dla planetyGramatura 180 g/m² – lekka, oddychająca, idealna na każdą psigodęEtyczna produkcja – certyfikaty GOTS, GRS, OCS, OEKO-TEX Standard 100, Fair Wear – dla Ciebie, dla planety,&nbsp;Krój jak sznaucer – pasuje do wszystkiego – unisex – dobrze leży na każdej sylwetceStylowy wzór – minimalistyczny trwały nadruk odporny na Olbrzymie psigodyPielęgnacja:Prać ręcznie lub w pralce w niskiej temperaturze. Przed wypraniem odwróć na lewą stronę. Nie susz w suszarce i nie używaj chlorowych wybielaczy. Prasuj na lewej stronie unikając kontaktu z nadrukiem.&nbsp;&nbsp;Noś go, bo wiesz, co to znaczy prawdziwe „Schnapiness”.Idealny też na prezent – dla każdego, kto kiedykolwiek powiedział: „to nie jest pies, to członek rodziny.”Idealny dla Ciebie&nbsp;Schnapiness = Schnauzer + HappinessTo nie tylko gra słów, ale też styl życia każdego opiekuna sznaucera.&nbsp; Czyli merdający ogon rozwiewający Twoje smutki, brodaty budzik, energiczny kompan, gotowy na wszystko! To Twój najlepszy przyjaciel, z błotem na łapach i najwierniejszym spojrzeniem świata.&nbsp;&nbsp;© Bingosfera</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30041765-Koszulka-Schnappiness-definicja</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/330.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>99 PLN</g:price>
+<g:sale_price>89 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-05-16T00:00:00+02:00/2025-05-26T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30041765</g:mpn>
+<g:shipping_weight>0.2 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>117</g:id>
+<title>Bluza SCHNAPPINESS</title>
+<description>Schnapiness = Schnauzer + HappinessTo nie tylko gra słów, ale też styl życia każdego opiekuna sznaucera.  Czyli merdający ogon rozwiewający Twoje smutki, brodaty budzik, energiczny kompan, gotowy na wszystko! To Twój najlepszy przyjaciel, z błotem na łapach i najwierniejszym spojrzeniem świata.  Sznaucery nie pytają – po prostu kochają. Z tej bezwarunkowej więzi powstała kolekcja „Schnapiness” – od psiego serca prosto do Twojej szafy. Bluza „Schnapiness” – dla tych, którzy wiedzą, że życie ze sznaucerem to styl. Dlaczego ją pokochasz od pierwszego założenia? Przyjemny materiał – gramatura 280 g/m²,  podszyty puszystym meszkiem. Otula jak sznaucer, ciepło, przyjemnie i z charakterem. Skład – 85% bawełna organiczna / 15% poliester z recyklingu. Etyczna produkcja – certyfikaty GOTS, GRS, OCS, OEKO-TEX Standard 100, Fair Wear – dla Ciebie, dla planety. Krój jak sznaucer – pasuje do wszystkiego – bluza unisex, kaptur, idealny na niepogodę, poranny spacer z psem, albo leniwe dni. Pojemna kieszeń typu kangurka, w której schowasz smaczki, woreczki, telefon i wszystko co chcesz mieć przy sobie. Stylowy wzór – minimalistyczny trwały nadruk odporny na olbrzymie psigody.   Pielęgnacja: Prać ręcznie lub w pralce w niskiej temperaturze (30°C). Przed wypraniem odwróć na lewą stronę. Nie susz w suszarce i nie używaj chlorowych wybielaczy. Prasuj na lewej stronie unikając kontaktu z nadrukiem.   Noś ją z dumą, bo wiesz, co to znaczy prawdziwe „Schnapiness”. Idealna też na prezent – dla każdego, kto kiedykolwiek powiedział: „to nie jest pies, to członek rodziny.” Idealna dla Ciebie   © Bingosfera</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30041834-Bluza-SCHNAPPINESS</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/337.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>209 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30041834</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>118</g:id>
+<title>Bluza SCHNAPPINESS</title>
+<description>Schnapiness = Schnauzer + HappinessTo nie tylko gra słów, ale też styl życia każdego opiekuna sznaucera.  Czyli merdający ogon rozwiewający Twoje smutki, brodaty budzik, energiczny kompan, gotowy na wszystko! To Twój najlepszy przyjaciel, z błotem na łapach i najwierniejszym spojrzeniem świata.  Sznaucery nie pytają – po prostu kochają. Z tej bezwarunkowej więzi powstała kolekcja „Schnapiness” – od psiego serca prosto do Twojej szafy. Bluza „Schnapiness” – dla tych, którzy wiedzą, że życie ze sznaucerem to styl. Dlaczego ją pokochasz od pierwszego założenia? Przyjemny materiał – gramatura 280 g/m²,  podszyty puszystym meszkiem. Otula jak sznaucer, ciepło, przyjemnie i z charakterem. Skład – 85% bawełna organiczna / 15% poliester z recyklingu. Etyczna produkcja – certyfikaty GOTS, GRS, OCS, OEKO-TEX Standard 100, Fair Wear – dla Ciebie, dla planety. Krój jak sznaucer – pasuje do wszystkiego – bluza unisex, kaptur, idealny na niepogodę, poranny spacer z psem, albo leniwe dni. Pojemna kieszeń typu kangurka, w której schowasz smaczki, woreczki, telefon i wszystko co chcesz mieć przy sobie. Stylowy wzór – minimalistyczny trwały nadruk odporny na olbrzymie psigody.   Pielęgnacja: Prać ręcznie lub w pralce w niskiej temperaturze (30°C). Przed wypraniem odwróć na lewą stronę. Nie susz w suszarce i nie używaj chlorowych wybielaczy. Prasuj na lewej stronie unikając kontaktu z nadrukiem.   Noś ją z dumą, bo wiesz, co to znaczy prawdziwe „Schnapiness”. Idealna też na prezent – dla każdego, kto kiedykolwiek powiedział: „to nie jest pies, to członek rodziny.” Idealna dla Ciebie   © Bingosfera</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30041840-Bluza-SCHNAPPINESS</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/346.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>209 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30041840</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>119</g:id>
+<title>Bluza SCHNAPPINESS definicja</title>
+<description>Schnapiness = Schnauzer + HappinessTo nie tylko gra słów, ale też styl życia każdego opiekuna sznaucera.  Czyli merdający ogon rozwiewający Twoje smutki, brodaty budzik, energiczny kompan, gotowy na wszystko! To Twój najlepszy przyjaciel, z błotem na łapach i najwierniejszym spojrzeniem świata.  Sznaucery nie pytają – po prostu kochają. Z tej bezwarunkowej więzi powstała kolekcja „Schnapiness” – od psiego serca prosto do Twojej szafy. Bluza „Schnapiness” – dla tych, którzy wiedzą, że życie ze sznaucerem to styl. Dlaczego ją pokochasz od pierwszego założenia? Przyjemny materiał – gramatura 280 g/m²,  podszyty puszystym meszkiem. Otula jak sznaucer, ciepło, przyjemnie i z charakterem. Skład – 85% bawełna organiczna / 15% poliester z recyklingu. Etyczna produkcja – certyfikaty GOTS, GRS, OCS, OEKO-TEX Standard 100, Fair Wear – dla Ciebie, dla planety. Krój jak sznaucer – pasuje do wszystkiego – bluza unisex, kaptur, idealny na niepogodę, poranny spacer z psem, albo leniwe dni. Pojemna kieszeń typu kangurka, w której schowasz smaczki, woreczki, telefon i wszystko co chcesz mieć przy sobie. Stylowy wzór – minimalistyczny trwały nadruk odporny na olbrzymie psigody.   Pielęgnacja: Prać ręcznie lub w pralce w niskiej temperaturze (30°C). Przed wypraniem odwróć na lewą stronę. Nie susz w suszarce i nie używaj chlorowych wybielaczy. Prasuj na lewej stronie unikając kontaktu z nadrukiem.   Noś ją z dumą, bo wiesz, co to znaczy prawdziwe „Schnapiness”. Idealna też na prezent – dla każdego, kto kiedykolwiek powiedział: „to nie jest pies, to członek rodziny.” Idealna dla Ciebie   © Bingosfera</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30041861-Bluza-SCHNAPPINESS-definicja</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/355.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>209 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30041861</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>120</g:id>
+<title>Bluza SCHNAPPINESS definicja</title>
+<description>Schnapiness = Schnauzer + HappinessTo nie tylko gra słów, ale też styl życia każdego opiekuna sznaucera.  Czyli merdający ogon rozwiewający Twoje smutki, brodaty budzik, energiczny kompan, gotowy na wszystko! To Twój najlepszy przyjaciel, z błotem na łapach i najwierniejszym spojrzeniem świata.  Sznaucery nie pytają – po prostu kochają. Z tej bezwarunkowej więzi powstała kolekcja „Schnapiness” – od psiego serca prosto do Twojej szafy. Bluza „Schnapiness” – dla tych, którzy wiedzą, że życie ze sznaucerem to styl. Dlaczego ją pokochasz od pierwszego założenia? Przyjemny materiał – gramatura 280 g/m²,  podszyty puszystym meszkiem. Otula jak sznaucer, ciepło, przyjemnie i z charakterem. Skład – 85% bawełna organiczna / 15% poliester z recyklingu. Etyczna produkcja – certyfikaty GOTS, GRS, OCS, OEKO-TEX Standard 100, Fair Wear – dla Ciebie, dla planety. Krój jak sznaucer – pasuje do wszystkiego – bluza unisex, kaptur, idealny na niepogodę, poranny spacer z psem, albo leniwe dni. Pojemna kieszeń typu kangurka, w której schowasz smaczki, woreczki, telefon i wszystko co chcesz mieć przy sobie. Stylowy wzór – minimalistyczny trwały nadruk odporny na olbrzymie psigody.   Pielęgnacja: Prać ręcznie lub w pralce w niskiej temperaturze (30°C). Przed wypraniem odwróć na lewą stronę. Nie susz w suszarce i nie używaj chlorowych wybielaczy. Prasuj na lewej stronie unikając kontaktu z nadrukiem.   Noś ją z dumą, bo wiesz, co to znaczy prawdziwe „Schnapiness”. Idealna też na prezent – dla każdego, kto kiedykolwiek powiedział: „to nie jest pies, to członek rodziny.” Idealna dla Ciebie   © Bingosfera</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30041862-Bluza-SCHNAPPINESS-definicja</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/362.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>209 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30041862</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>121</g:id>
+<title>T-shirt Dogs & Mountains</title>
+<description>Koszulka Dogs &amp; Mountains    Minimalistyczny look, maksymalny komfort. Ta koszulka to must-have dla każdego, kto kocha przygody z psem – nie tylko te górskie. Dlaczego ją pokochasz od pierwszego założenia: 100% bawełna organiczna – miękka, przyjemna w dotyku i dobra dla planety Gramatura 180 g/m² – lekka i oddychająca, idealna na każdą psigodę, czy to miejski spacer, czy szlak pod górę Etyczna produkcja – certyfikaty GOTS, GRS, OCS, OEKO-TEX Standard 100, Fair Wear – ubranie z czystym sumieniem Dobrze leży na każdej sylwetce (unisex) Stylowy nadruk    To koszulka, którą założysz raz – i nie będziesz chciał zdjąć. Chyba że do prania. Ale tylko na chwilę. Pielęgnacja:Pierzesz? Odwróć na lewą stronę. Woda chłodna, piesek obok. Bez suszarki, bez wybielacza. Prasuj z sercem, z dala od nadruku. Trwałość gwarantowana, jeśli dasz jej trochę miłości. Kolekcja Dogs &amp; Mountains powstała z myślą o tych, którzy nie wyobrażają sobie weekendu bez górskiej wędrówki z psem u boku. Jeśli znasz ten moment, kiedy zatrzymujecie się razem na szlaku, żeby złapać oddech i nacieszyć się widokiem – to jesteś we właściwym miejscu.   </description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30042152-T-shirt-Dogs-Mountains</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/369.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>99 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30042152</g:mpn>
+<g:shipping_weight>0.2 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>122</g:id>
+<title>Bluza Dogs & Mountains</title>
+<description>Bluza Dogs &amp; Mountains    Miękka, ciepła i gotowa na wszystko – od chłodnych poranków w górach po leniwe wieczory na kanapie z psem przy nodze. Dlaczego ta bluza to Twój nowy ulubieniec: Materiał Stanley/Stella – certyfikowana, organiczna bawełna i recyklingowany poliester. Miękka jak ucho labradora Gramatura 280 g/m² – konkretna, ale nie za gruba. Idealna na warstwowanie i solo Kaptur z podszewką – na wietrzne dni i poranki w trasie Kieszeń typu kangurka – na dłonie, smycz, smaczki albo klucze Dobrze leży na każdej sylwetce (unisex) Stylowy nadruk  Pielęgnacja:Pierzesz? Odwróć na lewą stronę. Woda chłodna, piesek obok. Bez suszarki, bez wybielacza. Prasuj z sercem, z dala od nadruku. Trwałość gwarantowana, jeśli dasz jej trochę miłości. Kolekcja Dogs &amp; Mountains powstała z myślą o tych, którzy nie wyobrażają sobie weekendu bez górskiej wędrówki z psem u boku. Jeśli znasz ten moment, kiedy zatrzymujecie się razem na szlaku, żeby złapać oddech i nacieszyć się widokiem – to jesteś we właściwym miejscu.  To ubrania stworzone z potrzeby bycia blisko natury i najwierniejszego towarzysza. Dla tych, którzy wiedzą, że najlepsze rozmowy toczą się bez słów, gdzieś pomiędzy szczytem a doliną, a najpiękniejsze chwile to te, kiedy Twój pies idzie przodem, co jakiś czas odwracając się, by sprawdzić, czy nadążasz. Postawiliśmy na jakościowe produkty od Stanley/Stella – marki, która łączy świetne wykonanie z odpowiedzialną produkcją. Wszystkie koszulki i bluzy uszyte są z certyfikowanej, organicznej bawełny, w etycznych warunkach.</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30042157-Bluza-Dogs-Mountains</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/375.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>209 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30042157</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>125</g:id>
+<title>Torba bawełniana "Schnappiness"</title>
+<description>Torba bawełniana "Schnappiness"  Lekka, wytrzymała i zawsze gotowa na nowe psigody!  Nasza torba wielokrotnego użytku z kolekcji Schnappiness to idealny wybór dla tych, którzy cenią styl, wygodę i... radość codziennych chwil. Wykonana z naturalnej bawełny, z długimi uchwytami, które wygodnie zarzucisz na ramię – świetnie sprawdzi się na spacerze, w drodze na zakupy, w parku, a nawet na szybkie wypady z psem. Cechy:• Materiał: 100% bawełna, gramatura 140 g/m²• Wymiary: 38 × 42 cm• Długie uchwyty (ok. 67 cm) – noś na ramieniu lub w ręce• Lekka, ale solidna konstrukcja• Idealna do nadruków z kolekcji Schnappiness Zaprojektowana dla miłośników sznaucerów (i nie tylko!) – bo szczęście najlepiej nosi się... wszędzie ze sobą!</description>
+<g:product_type>Torby</g:product_type>
+<link>https://bingosfera.sklep.pl/30042338-Torba-bawelniana-Schnappiness</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/388.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>45 PLN</g:price>
+<g:sale_price>35 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-05-14T00:00:00+02:00/2025-05-31T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>westfordmill</g:brand>
+<g:gtin/>
+<g:mpn>30042338</g:mpn>
+<g:shipping_weight>0.2 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>126</g:id>
+<title>Torba bawełniana "Schnappiness"</title>
+<description>Torba bawełniana "Schnappiness"  Lekka, wytrzymała i zawsze gotowa na nowe psigody!  Nasza torba wielokrotnego użytku z kolekcji Schnappiness to idealny wybór dla tych, którzy cenią styl, wygodę i... radość codziennych chwil. Wykonana z naturalnej bawełny, z długimi uchwytami, które wygodnie zarzucisz na ramię – świetnie sprawdzi się na spacerze, w drodze na zakupy, w parku, a nawet na szybkie wypady z psem. Cechy:• Materiał: 100% bawełna, gramatura 140 g/m²• Wymiary: 38 × 42 cm• Długie uchwyty (ok. 67 cm) – noś na ramieniu lub w ręce• Lekka, ale solidna konstrukcja• Idealna do nadruków z kolekcji Schnappiness Zaprojektowana dla miłośników sznaucerów (i nie tylko!) – bo szczęście najlepiej nosi się... wszędzie ze sobą!</description>
+<g:product_type>Torby</g:product_type>
+<link>https://bingosfera.sklep.pl/30042339-Torba-bawelniana-Schnappiness</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/394.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>45 PLN</g:price>
+<g:sale_price>35 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-04-30T00:00:00+02:00/2025-05-31T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>westfordmill</g:brand>
+<g:gtin/>
+<g:mpn>30042339</g:mpn>
+<g:shipping_weight>0.2 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>127</g:id>
+<title>Torba bawełniana "Schnappiness"</title>
+<description>Torba bawełniana "Schnappiness"  Lekka, wytrzymała i zawsze gotowa na nowe psigody!  Nasza torba wielokrotnego użytku z kolekcji Schnappiness to idealny wybór dla tych, którzy cenią styl, wygodę i... radość codziennych chwil. Wykonana z naturalnej bawełny, z długimi uchwytami, które wygodnie zarzucisz na ramię – świetnie sprawdzi się na spacerze, w drodze na zakupy, w parku, a nawet na szybkie wypady z psem. Cechy:• Materiał: 100% bawełna, gramatura 140 g/m²• Wymiary: 38 × 42 cm• Długie uchwyty (ok. 67 cm) – noś na ramieniu lub w ręce• Lekka, ale solidna konstrukcja• Idealna do nadruków z kolekcji Schnappiness Zaprojektowana dla miłośników sznaucerów (i nie tylko!) – bo szczęście najlepiej nosi się... wszędzie ze sobą!</description>
+<g:product_type>Torby</g:product_type>
+<link>https://bingosfera.sklep.pl/30042340-Torba-bawelniana-Schnappiness</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/398.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>45 PLN</g:price>
+<g:sale_price>35 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-05-14T00:00:00+02:00/2025-05-31T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>westfordmill</g:brand>
+<g:gtin/>
+<g:mpn>30042340</g:mpn>
+<g:shipping_weight>0.2 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>128</g:id>
+<title>Torba bawełniana "Schnappiness"</title>
+<description>Torba bawełniana "Schnappiness"  Lekka, wytrzymała i zawsze gotowa na nowe psigody!  Nasza torba wielokrotnego użytku z kolekcji Schnappiness to idealny wybór dla tych, którzy cenią styl, wygodę i... radość codziennych chwil. Wykonana z naturalnej bawełny, z długimi uchwytami, które wygodnie zarzucisz na ramię – świetnie sprawdzi się na spacerze, w drodze na zakupy, w parku, a nawet na szybkie wypady z psem. Cechy:• Materiał: 100% bawełna, gramatura 140 g/m²• Wymiary: 38 × 42 cm• Długie uchwyty (ok. 67 cm) – noś na ramieniu lub w ręce• Lekka, ale solidna konstrukcja• Idealna do nadruków z kolekcji Schnappiness Zaprojektowana dla miłośników sznaucerów (i nie tylko!) – bo szczęście najlepiej nosi się... wszędzie ze sobą!</description>
+<g:product_type>Torby</g:product_type>
+<link>https://bingosfera.sklep.pl/30042341-Torba-bawelniana-Schnappiness</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/403.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>45 PLN</g:price>
+<g:sale_price>35 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-04-30T00:00:00+02:00/2025-05-31T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>westfordmill</g:brand>
+<g:gtin/>
+<g:mpn>30042341</g:mpn>
+<g:shipping_weight>0.2 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>129</g:id>
+<title>Torba bawełniana PSIARA CERTIFIED</title>
+<description>Nasza torba wielokrotnego użytku z kolekcji PSIARA / PSIARZ – CERTIFIED to must-have dla każdego.  Pomieści wszystkie skarby Twojego psa, smaczki, woreczki i patyki. Wykonana z bawełny, z długimi uchwytami, które wygodnie zarzucisz na ramię – świetnie sprawdzi się na spacerze, w drodze po karmę albo na zakupy.  Cechy:  • Materiał: 100% bawełna, gramatura 140 g/m² • Wymiary: 38 × 42 cm • Długie uchwyty (ok. 67 cm)  • Lekka, ale wytrzymała – jak każda dobra Psiara    Zaprojektowana z myślą o tych, którzy wiedzą, że bycie Psiarą to nie hobby – to styl życia.   © Bingosfera </description>
+<g:product_type>Torby</g:product_type>
+<link>https://bingosfera.sklep.pl/30041315-Nasza-wielokrotnego-uzytku-PSIARA-CERTIFIED</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/408.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>45 PLN</g:price>
+<g:sale_price>35 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-04-30T00:00:00+02:00/2025-05-31T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>westfordmill</g:brand>
+<g:gtin/>
+<g:mpn>30041315</g:mpn>
+<g:shipping_weight>0.2 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>131</g:id>
+<title>Bluza PSIARA CERTIFIED</title>
+<description>Bluza PSIARA – CERTIFIED Dla tych, którzy nie muszą się przedstawiać – wystarczy, że wejdą z psem do parku. Dlaczego ją pokochasz od pierwszego założenia? Bo otula jak psia obecność – ciepło, wygodnie i z charakterem. • Przyjemna w dotyku gramatura 280 g/m²• Skład: 85% bawełna organiczna / 15% poliester z recyklingu • Produkcja etyczna: GOTS, GRS, OCS, OEKO-TEX Standard 100, Fair Wear • Krój unisex – pasuje każdemu psiarzowi i każdej psiarze • Kaptur na wietrzne poranki i wieczorne spacery • Kieszeń typu kangurka – pomieści wszystko: smaczki, woreczki, telefon i psie skarby  Stylowy nadruk z certyfikatem psiej tożsamości – minimalistyczny, wytrzymały Pielęgnacja: Prać ręcznie lub w pralce w niskiej temperaturze (30°C). Przed praniem odwróć na lewą stronę. Nie susz w suszarce. Nie wybielaj. Prasuj na lewej stronie z ominięciem nadruku. Noś z dumą. Bo wiesz, że bycie Psiarą lub Psiarzem to nie moda – to misja z merdającym ogonem u boku. © Bingosfera</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30042422-Bluza-PSIARA-CERTIFIED</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/420.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>209 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30042422</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>132</g:id>
+<title>Książka "Sznaucer Bingo na tropie psigód" ! PREORDER – Wysyłka od 23 maja 2025 !</title>
+<description>! PREORDER – Wysyłka od 23 maja 2025 ! Zamów teraz i bądź pierwszą osobą, która otrzyma egzemplarz!   Pierwsza książka dla dzieci, której bohaterem jest sznaucer olbrzym! Książka „Sznaucer Bingo na tropie psigód” to opowieść o tym, jak wygląda świat oczami psa.Czytając ją, poznasz fascynujące ciekawostki o psim węchu, słuchu i zmysłach, a także dowiesz się, co naprawdę widzą psy. Ale to nie wszystko! Oprócz psich tajemnic odkryjesz też mnóstwo zabawnych psigód sznaucera, który zawsze ma sporo do powiedzenia. Czym wyróżnia się ta książka? Głównym bohaterem i narratorem jest sznaucer olbrzym Bingo. To on prowadzi nas przez swoje przygody, zmagania, problemy i obserwacje, pozwalając dzieciom (i dorosłym!) zrozumieć, „jak działa pies” – nie tylko jego zmysły, ale przede wszystkim emocje i potrzeby. Co jeszcze? – odwraca role: to nie człowiek „ma psa”, tylko pies ma swoich "Człowieków"– pokazuje, że pies to nie prezent, tylko zobowiązanie – i miłość– tłumaczy dzieciom, jakie są różnice w postrzeganiu świata przez psy i ludzi– opowiada prawdziwą historię prawdziwego psa: pełną błota, burz, chaosu i psigód   Poznaj głównego bohatera  Bingo – sznaucer olbrzym: błyskotliwy, uparty i zawsze gotowy na psigody! Bingo nie jest wymyśloną postacią — to prawdziwy pies, który żyje, czuje, boi się, cieszy i gada. To sznaucer olbrzym z charakterem, czerwoną chustą na szyi i niezwykłą łatwością do skradania serc. A prywatnie? Podróżnik, odkrywca, domowy psycholog i smaczkowy dyplomata.Miłośnik kałuż, błota i wakacyjnych wyjazdów, z pasją do kąpieli, niechęcią do upałów i wyjątkową psiosobowością.W relacjach – oddany bezgranicznie. W komunikacji – precyzyjny, jak tylko pies potrafi być.   Dla kogo jest książka "Sznaucer Bingo na tropie psigód"? Rekomendowana dla:   – dzieci w wieku szkolnym oraz przedszkolnym (do wspólnego czytania z rodzicami) – rodziców, którzy szukają wartościowej, mądrej i zabawnej lektury na wspólne wieczory – rodzin rozważających adopcję lub zakup psa – jako wprowadzenie w psie emocje i potrzeby – dzieci już mających psa, które chcą lepiej poznać swojego pupila i zbudować z nim głęboką więź – nauczycieli i pedagogów, którzy chcą uczyć dzieci empatii, odpowiedzialności i uważności – miłośników sznaucerów (i nie tylko!)     „Sznaucer Bingo na tropie psigód” to książka, która trafia w potrzeby i serca wielu czytelników. Jest napisana z czułością, ale bez infantylności, z humorem, ale bez przerysowania. Dzięki temu z łatwością odnajdują się w niej zarówno dzieci, jak i dorośli. Wartości książki "Sznaucer Bingo na tropie psigód" Ta książka nie tylko bawi – ona buduje relacje:Między dzieckiem a psem.Między dzieckiem a rodzicem.Między światem dziecięcych emocji a światem psiej wrażliwości. Czego uczy Bingo? EmpatiiDziecko patrzy na świat oczami psa – uczy się rozumieć jego emocje, potrzeby i ograniczenia. OdpowiedzialnościNie każdy pies jest gotowy na dziecko. I nie każde dziecko – na psa. Bingo pokazuje, że decyzja o wspólnym życiu to nie kaprys, ale powołanie. I że każda relacja wymaga troski. Komunikacji i szacunkuPsy mówią, ale inaczej, do komunikacji nie używają słów. Ciekawości świataBingo podaje dzieciom wiedzę w lekkiej, zrozumiałej i naturalnie fascynującej formie.    O autorce Małgorzata Wołoszyn–Chrząszcz – mama, pisarka, artystka, psiara.Twórczyni Bingosfery – przestrzeni, gdzie świat dzieci, psów i emocji spotyka się w jednym miejscu, podróżując wszędzie tam, gdzie łapy poniosą. Skąd wziął się pomysł na książkę? Pomysł na książkę „Sznaucer Bingo na tropie psigód” zrodził się naturalnie – z naszej codzienności.  To niekończące się pytania mojego syna i oryginalna psiosobowość Bingo sprawiły, że postanowiłam podzielić się nimi z resztą świata. Na początku publikując treści na Instagramie, poźniej, gdy okazało się, że nasze historie ciekawią szersze grono odbiorców, postanowiłam przelać je na papier.  Autorskie ilustracje Nie musiałam  tworzyć fikcyjnego wizerunku bohatera książki od zera, bo Bingo naprawdę istnieje.I to jego prawdziwe uszy, łapy, mimika i spojrzenie odnajdziesz na kartach tej książki.   To moja pierwsza książka.Ale nie ostatnia.Bo gdy raz pozwolisz psu przemówić już zawsze będzie miał coś do powiedzenia.    ! PREORDER – Wysyłka od 23 maja 2025 !</description>
+<g:product_type>SZNAUCER BINGO NA TROPIE PSIGÓD</g:product_type>
+<link>https://bingosfera.sklep.pl/ksiazka-sznaucer-bingo</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/423.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>99 PLN</g:price>
+<g:sale_price>79 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-05-08T00:00:00+02:00/2025-05-25T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>Bingosfera</g:brand>
+<g:gtin>9788397544802</g:gtin>
+<g:mpn>9788397544802</g:mpn>
+<g:shipping_weight>0.011 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>133</g:id>
+<title>Damski T-shirt DOG VIBES ONLY – sznaucer</title>
+<description> Poczuj wiosnę i psiozytywne wibracje  Kolekcja DOG VIBES ONLY powstała dla wszystkich psiar, które nie wracają ze spaceru bez nowych zdjęć pieska, kwiatków i... pieska w kwiatkach.  Kwiatowe wzory i psie motywy tworzą razem energetyczną, wiosenną mieszankę pełną radości. Noś ją z dumą i dziel się psiozytywną energią wszędzie tam, gdzie jesteś!  Koszulka Stella Serena Dog Vibes Only to połączenie kobiecego stylu, komfortu i świadomego wyboru. Wykonana w 100% z czesanej bawełny organicznej ring-spun, o lekkiej dzianinie single jersey (155 g/m²), idealnie sprawdzi się na co dzień – zarówno na spacer z psem, jak i kawę z przyjaciółką. Jej półdopasowany fason pięknie układa się na sylwetce, a okrągły dekolt i miękki materiał gwarantują wygodę niezależnie od okazji.  Ten model to część odpowiedzialnej mody – posiada certyfikaty GOTS, Oeko-Tex, Fair Wear Foundation i PETA-Approved Vegan, co oznacza, że powstał w etyczny i ekologiczny sposób, bez użycia składników pochodzenia zwierzęcego.  Dostępna w 3 kolorach: biały, różowy i granatowy, idealnie pasuje do wzorów z kolekcji DOG VIBES ONLY – bo styl i psia energia idą tu łapa w łapę.    Wskazówki pielęgnacyjne  Zadbaj o swoją koszulkę:  Prać ręcznie lub w pralce w zimnej wodzie (max.30°C, na delikatnym cyklu, po odwróceniu na lewą stronę. Nie używać wybielacza z chlorem. Nie suszyć w suszarce bębnowej. Prasować tylko na lewej stronie – nigdy bezpośrednio na nadruku. © Bingosfera </description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30045235-Damski-T-shirt-DOG-VIBES-ONLY-sznaucer</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/424.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>89 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30045235</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>134</g:id>
+<title>Damski T-shirt DOG VIBES ONLY – samoyed</title>
+<description>Poczuj wiosnę i psiozytywne wibracje  Kolekcja DOG VIBES ONLY powstała dla wszystkich psiar, które nie wracają ze spaceru bez nowych zdjęć pieska, kwiatków i... pieska w kwiatkach.  Kwiatowe wzory i psie motywy tworzą razem energetyczną, wiosenną mieszankę pełną radości. Noś ją z dumą i dziel się psiozytywną energią wszędzie tam, gdzie jesteś!  Koszulka Stella Serena Dog Vibes Only to połączenie kobiecego stylu, komfortu i świadomego wyboru. Wykonana w 100% z czesanej bawełny organicznej ring-spun, o lekkiej dzianinie single jersey (155 g/m²), idealnie sprawdzi się na co dzień – zarówno na spacer z psem, jak i kawę z przyjaciółką. Jej półdopasowany fason pięknie układa się na sylwetce, a okrągły dekolt i miękki materiał gwarantują wygodę niezależnie od okazji.  Ten model to część odpowiedzialnej mody – posiada certyfikaty GOTS, Oeko-Tex, Fair Wear Foundation i PETA-Approved Vegan, co oznacza, że powstał w etyczny i ekologiczny sposób, bez użycia składników pochodzenia zwierzęcego.  Dostępna w 3 kolorach: biały, różowy i granatowy, idealnie pasuje do wzorów z kolekcji DOG VIBES ONLY – bo styl i psia energia idą tu łapa w łapę.    Wskazówki pielęgnacyjne  Zadbaj o swoją koszulkę:  Prać ręcznie lub w pralce w zimnej wodzie (max.30°C, na delikatnym cyklu, po odwróceniu na lewą stronę. Nie używać wybielacza z chlorem. Nie suszyć w suszarce bębnowej. Prasować tylko na lewej stronie – nigdy bezpośrednio na nadruku. © Bingosfera </description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30045245-Damski-T-shirt-DOG-VIBES-ONLY-samoyed</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/428.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>89 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30045245</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>135</g:id>
+<title>Damski T-shirt DOG VIBES ONLY – owczarek</title>
+<description>Poczuj wiosnę i psiozytywne wibracje  Kolekcja DOG VIBES ONLY powstała dla wszystkich psiar, które nie wracają ze spaceru bez nowych zdjęć pieska, kwiatków i... pieska w kwiatkach.</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30045249-Damski-T-shirt-DOG-VIBES-ONLY-owczarek</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/430.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>89 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30045249</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>136</g:id>
+<title>Damski T-shirt DOG VIBES ONLY – golden</title>
+<description>Poczuj wiosnę i psiozytywne wibracjeKolekcja DOG VIBES ONLY powstała dla wszystkich psiar, które nie wracają ze spaceru bez nowych zdjęć pieska, kwiatków i... pieska w kwiatkach. Kwiatowe wzory i psie motywy tworzą razem energetyczną, wiosenną mieszankę pełną radości.Noś ją z dumą i dziel się psiozytywną energią wszędzie tam, gdzie jesteś!Koszulka Stella Serena Dog Vibes Only to połączenie kobiecego stylu, komfortu i świadomego wyboru. Wykonana w 100% z czesanej bawełny organicznej ring-spun, o lekkiej dzianinie single jersey (155 g/m²), idealnie sprawdzi się na co dzień – zarówno na spacer z psem, jak i kawę z przyjaciółką. Jej półdopasowany fason pięknie układa się na sylwetce, a okrągły dekolt i miękki materiał gwarantują wygodę niezależnie od okazji.Ten model to część odpowiedzialnej mody – posiada certyfikaty GOTS, Oeko-Tex, Fair Wear Foundation i PETA-Approved Vegan, co oznacza, że powstał w etyczny i ekologiczny sposób, bez użycia składników pochodzenia zwierzęcego.Dostępna w 3 kolorach: biały, różowy i granatowy, idealnie pasuje do wzorów z kolekcji DOG VIBES ONLY – bo styl i psia energia idą tu łapa w łapę. Wskazówki pielęgnacyjne Zadbaj o swoją koszulkę:  Prać ręcznie lub w pralce w zimnej wodzie (max.30°C, na delikatnym cyklu, po odwróceniu na lewą stronę. Nie używać wybielacza z chlorem. Nie suszyć w suszarce bębnowej. Prasować tylko na lewej stronie – nigdy bezpośrednio na nadruku. © Bingosfera </description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30045248-Damski-T-shirt-DOG-VIBES-ONLY-golden</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/435.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>89 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30045248</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>137</g:id>
+<title>Damski T-shirt DOG VIBES ONLY – jamnik</title>
+<description>Poczuj wiosnę i psiozytywne wibracjeKolekcja DOG VIBES ONLY powstała dla wszystkich psiar, które nie wracają ze spaceru bez nowych zdjęć pieska, kwiatków i... pieska w kwiatkach. Kwiatowe wzory i psie motywy tworzą razem energetyczną, wiosenną mieszankę pełną radości.Noś ją z dumą i dziel się psiozytywną energią wszędzie tam, gdzie jesteś!Koszulka Stella Serena Dog Vibes Only to połączenie kobiecego stylu, komfortu i świadomego wyboru. Wykonana w 100% z czesanej bawełny organicznej ring-spun, o lekkiej dzianinie single jersey (155 g/m²), idealnie sprawdzi się na co dzień – zarówno na spacer z psem, jak i kawę z przyjaciółką. Jej półdopasowany fason pięknie układa się na sylwetce, a okrągły dekolt i miękki materiał gwarantują wygodę niezależnie od okazji.Ten model to część odpowiedzialnej mody – posiada certyfikaty GOTS, Oeko-Tex, Fair Wear Foundation i PETA-Approved Vegan, co oznacza, że powstał w etyczny i ekologiczny sposób, bez użycia składników pochodzenia zwierzęcego.Dostępna w 3 kolorach: biały, różowy i granatowy, idealnie pasuje do wzorów z kolekcji DOG VIBES ONLY – bo styl i psia energia idą tu łapa w łapę. Wskazówki pielęgnacyjne Zadbaj o swoją koszulkę:  Prać ręcznie lub w pralce w zimnej wodzie (max.30°C, na delikatnym cyklu, po odwróceniu na lewą stronę. Nie używać wybielacza z chlorem. Nie suszyć w suszarce bębnowej. Prasować tylko na lewej stronie – nigdy bezpośrednio na nadruku. © Bingosfera </description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30045250-Damski-T-shirt-DOG-VIBES-ONLY-jamnik</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/437.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>89 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30045250</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>138</g:id>
+<title>Damski T-shirt DOG VIBES ONLY – charcik</title>
+<description>Poczuj wiosnę i psiozytywne wibracjeKolekcja DOG VIBES ONLY powstała dla wszystkich psiar, które nie wracają ze spaceru bez nowych zdjęć pieska, kwiatków i... pieska w kwiatkach. Kwiatowe wzory i psie motywy tworzą razem energetyczną, wiosenną mieszankę pełną radości.Noś ją z dumą i dziel się psiozytywną energią wszędzie tam, gdzie jesteś!Koszulka Stella Serena Dog Vibes Only to połączenie kobiecego stylu, komfortu i świadomego wyboru. Wykonana w 100% z czesanej bawełny organicznej ring-spun, o lekkiej dzianinie single jersey (155 g/m²), idealnie sprawdzi się na co dzień – zarówno na spacer z psem, jak i kawę z przyjaciółką. Jej półdopasowany fason pięknie układa się na sylwetce, a okrągły dekolt i miękki materiał gwarantują wygodę niezależnie od okazji.Ten model to część odpowiedzialnej mody – posiada certyfikaty GOTS, Oeko-Tex, Fair Wear Foundation i PETA-Approved Vegan, co oznacza, że powstał w etyczny i ekologiczny sposób, bez użycia składników pochodzenia zwierzęcego.Dostępna w 3 kolorach: biały, różowy i granatowy, idealnie pasuje do wzorów z kolekcji DOG VIBES ONLY – bo styl i psia energia idą tu łapa w łapę. Wskazówki pielęgnacyjne Zadbaj o swoją koszulkę:  Prać ręcznie lub w pralce w zimnej wodzie (max.30°C, na delikatnym cyklu, po odwróceniu na lewą stronę. Nie używać wybielacza z chlorem. Nie suszyć w suszarce bębnowej. Prasować tylko na lewej stronie – nigdy bezpośrednio na nadruku. © Bingosfera </description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30045254-Damski-T-shirt-DOG-VIBES-ONLY-charcik</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/441.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>89 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30045254</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>139</g:id>
+<title>Damski T-shirt DOG VIBES ONLY – buldog</title>
+<description>Poczuj wiosnę i psiozytywne wibracje&nbsp;Kolekcja DOG VIBES ONLY powstała dla wszystkich psiar, które nie wracają ze spaceru bez nowych zdjęć pieska, kwiatków i... pieska w kwiatkach. Kwiatowe wzory i psie motywy tworzą razem energetyczną, wiosenną mieszankę pełną radości. Noś ją z dumą i dziel się psiozytywną energią wszędzie tam, gdzie jesteś!&nbsp;Koszulka Stella Serena Dog Vibes Only to połączenie kobiecego stylu, komfortu i świadomego wyboru. Wykonana w 100% z czesanej bawełny organicznej ring-spun, o lekkiej dzianinie single jersey (155 g/m²), idealnie sprawdzi się na co dzień – zarówno na spacer z psem, jak i kawę z przyjaciółką. Jej półdopasowany fason pięknie układa się na sylwetce, a okrągły dekolt i miękki materiał gwarantują wygodę niezależnie od okazji.&nbsp;Ten model to część odpowiedzialnej mody – posiada certyfikaty GOTS, Oeko-Tex, Fair Wear Foundation i PETA-Approved Vegan, co oznacza, że powstał w etyczny i ekologiczny sposób, bez użycia składników pochodzenia zwierzęcego.&nbsp;Dostępna w 3 kolorach: biały, różowy i granatowy, idealnie pasuje do wzorów z kolekcji DOG VIBES ONLY – bo styl i psia energia idą tu łapa w łapę.&nbsp;&nbsp;Wskazówki pielęgnacyjne&nbsp;Zadbaj o swoją koszulkę:&nbsp;Prać ręcznie lub w pralce w zimnej wodzie (max.30°C, na delikatnym cyklu, po odwróceniu na lewą stronę.Nie używać wybielacza z chlorem.Nie suszyć w suszarce bębnowej.Prasować tylko na lewej stronie – nigdy bezpośrednio na nadruku.© Bingosfera&nbsp;</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30045256-Damski-T-shirt-DOG-VIBES-ONLY-buldog</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/444.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>89 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30045256</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>140</g:id>
+<title>Damski T-shirt DOG VIBES ONLY</title>
+<description>  Poczuj wiosnę i psiozytywne wibracje  Kolekcja DOG VIBES ONLY powstała dla wszystkich psiar, które nie wracają ze spaceru bez nowych zdjęć pieska, kwiatków i... pieska w kwiatkach.  Kwiatowe wzory i psie motywy tworzą razem energetyczną, wiosenną mieszankę pełną radości. Noś ją z dumą i dziel się psiozytywną energią wszędzie tam, gdzie jesteś!  Koszulka Stella Serena Dog Vibes Only to połączenie kobiecego stylu, komfortu i świadomego wyboru. Wykonana w 100% z czesanej bawełny organicznej ring-spun, o lekkiej dzianinie single jersey (155 g/m²), idealnie sprawdzi się na co dzień – zarówno na spacer z psem, jak i kawę z przyjaciółką. Jej półdopasowany fason pięknie układa się na sylwetce, a okrągły dekolt i miękki materiał gwarantują wygodę niezależnie od okazji.  Ten model to część odpowiedzialnej mody – posiada certyfikaty GOTS, Oeko-Tex, Fair Wear Foundation i PETA-Approved Vegan, co oznacza, że powstał w etyczny i ekologiczny sposób, bez użycia składników pochodzenia zwierzęcego.  Dostępna w 3 kolorach: biały, różowy i granatowy, idealnie pasuje do wzorów z kolekcji DOG VIBES ONLY – bo styl i psia energia idą tu łapa w łapę.    Wskazówki pielęgnacyjne  Zadbaj o swoją koszulkę:  Prać ręcznie lub w pralce w zimnej wodzie (max.30°C, na delikatnym cyklu, po odwróceniu na lewą stronę. Nie używać wybielacza z chlorem. Nie suszyć w suszarce bębnowej. Prasować tylko na lewej stronie – nigdy bezpośrednio na nadruku. © Bingosfera </description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30045257-Damski-T-shirt-DOG-VIBES-ONLY</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/445.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>89 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30045257</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>141</g:id>
+<title>Damski T-shirt DOG VIBES ONLY – sznaucer miniatura</title>
+<description>Poczuj wiosnę i psiozytywne wibracje Kolekcja DOG VIBES ONLY powstała dla wszystkich psiar, które nie wracają ze spaceru bez nowych zdjęć pieska, kwiatków i... pieska w kwiatkach.  Kwiatowe wzory i psie motywy tworzą razem energetyczną, wiosenną mieszankę pełną radości. Noś ją z dumą i dziel się psiozytywną energią wszędzie tam, gdzie jesteś! Koszulka Stella Serena Dog Vibes Only to połączenie kobiecego stylu, komfortu i świadomego wyboru. Wykonana w 100% z czesanej bawełny organicznej ring-spun, o lekkiej dzianinie single jersey (155 g/m²), idealnie sprawdzi się na co dzień – zarówno na spacer z psem, jak i kawę z przyjaciółką. Jej półdopasowany fason pięknie układa się na sylwetce, a okrągły dekolt i miękki materiał gwarantują wygodę niezależnie od okazji. Ten model to część odpowiedzialnej mody – posiada certyfikaty GOTS, Oeko-Tex, Fair Wear Foundation i PETA-Approved Vegan, co oznacza, że powstał w etyczny i ekologiczny sposób, bez użycia składników pochodzenia zwierzęcego. Dostępna w 3 kolorach: biały, różowy i granatowy, idealnie pasuje do wzorów z kolekcji DOG VIBES ONLY – bo styl i psia energia idą tu łapa w łapę.  Wskazówki pielęgnacyjne Zadbaj o swoją koszulkę:  Prać ręcznie lub w pralce w zimnej wodzie (max.30°C, na delikatnym cyklu, po odwróceniu na lewą stronę. Nie używać wybielacza z chlorem. Nie suszyć w suszarce bębnowej. Prasować tylko na lewej stronie – nigdy bezpośrednio na nadruku. © Bingosfera </description>
+<g:product_type>KOLEKCJA UBRAŃ > T-SHIRTY > DAMSKIE</g:product_type>
+<link>https://bingosfera.sklep.pl/30045255-Damski-T-shirt-DOG-VIBES-ONLY-sznaucer-miniatura</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/449.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>89 PLN</g:price>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30045255</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>142</g:id>
+<title>T-shirt PSIARA CERTIFIED</title>
+<description> T-shirt PSIARA CERTIFIED  Dla tych, którzy nie wyobrażają sobie życia bez psa i bez... wygodnej koszulki.  Dlaczego go pokochasz od pierwszego założenia? • 100% bawełna organiczna – miękka, przyjemna i dobra dla planety • Gramatura 155 g/m² – lekka, oddychająca, idealna na każdą psigodę • Etyczna produkcja – certyfikaty GOTS, GRS, OCS, OEKO-TEX Standard 100, Fair Wear – dla Ciebie, dla planety • Damski krój, który świetnie leży na każdej psiarskiej sylwetce • Stylowy wzór – minimalistyczny nadruk z certyfikatem psiej tożsamości.  Pielęgnacja: Prać ręcznie lub w pralce w niskiej temperaturze (30°C). Przed praniem odwróć na lewą stronę. Nie susz w suszarce. Nie wybielaj. Prasuj na lewej stronie, z dala od nadruku.  Noś go z dumą. Bo jesteś PSIARĄ. I świat powinien o tym wiedzieć.  Dla tych, co wiedzą, że życie z psem to nie etap – to tożsamość. Dla tych, co mają sierść na każdej bluzie i smaczki w każdej kieszeni. Dla każdej Psiary, co nie potrzebuje się przedstawiać – jej pies robi to za nią.  Zaprojektowany z sercem (i sierścią), zatwierdzony przez psy i certyfikowany przez wspólne psigody. Z mocnym napisem, łapą jak z błotnistego spaceru i stemplem „CERTIFIED” – bo bycie psiarą to powód do dumy.  © Bingosfera </description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30045261-T-shirt-PSIARA-CERTIFIED</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/469.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>89 PLN</g:price>
+<g:sale_price>79 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-05-14T00:00:00+02:00/2025-05-24T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>Stanley Stella</g:brand>
+<g:gtin/>
+<g:mpn>30045261</g:mpn>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+<item>
+<g:id>143</g:id>
+<title>Torba bawełniana odcisk łapy Bingo</title>
+<description>Torba bawełniana odcisk łapy Bingo   Lekka, wytrzymała i zawsze gotowa na nowe psigody! Nasza torba wielokrotnego użytku to idealny wybór dla tych, którzy cenią styl, wygodę i... radość codziennych chwil. Wykonana z naturalnej bawełny, z długimi uchwytami, które wygodnie zarzucisz na ramię – świetnie sprawdzi się na spacerze, w drodze na zakupy, w parku, a nawet na szybkie wypady z psem. Cechy:• Materiał: 100% bawełna, gramatura 140 g/m²• Wymiary: 38 × 42 cm• Długie uchwyty (ok. 67 cm)• Lekka, ale solidna konstrukcja</description>
+<g:product_type>KOLEKCJA UBRAŃ</g:product_type>
+<link>https://bingosfera.sklep.pl/30045337-Torba-bawelniana-odcisk-lapy-Bingo</link>
+<g:image_link>https://bingosfera.sklep.pl/userdata/public/gfx/475.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>45 PLN</g:price>
+<g:sale_price>35 PLN</g:sale_price>
+<g:sale_price_effective_date>2025-05-14T00:00:00+02:00/2025-05-31T23:59:59+02:00</g:sale_price_effective_date>
+<g:brand>westfordmill</g:brand>
+<g:gtin/>
+<g:mpn>30045337</g:mpn>
+<g:shipping_weight>0.3 kg</g:shipping_weight>
+<g:shipping/>
+</item>
+</channel>
+</rss>
